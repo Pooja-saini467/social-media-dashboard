@@ -17,7 +17,7 @@
 - It is fully responsive.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/social-media-dashboard/blob/main/design/desktop-design-light.jpg">
 
 ## Demo
 ## Live Link
