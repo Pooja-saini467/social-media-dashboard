@@ -20,6 +20,7 @@
 <img src="https://github.com/Pooja-saini467/social-media-dashboard/blob/main/design/desktop-design-light.jpg">
 
 ## Demo
+https://user-images.githubusercontent.com/90523453/155554172-089ffb0b-e9a4-4463-8cda-f125cec07d55.mp4
 ## Live Link
 - Pooja-saini467(https://pooja-saini467.github.io/social-media-dashboard/)
 
